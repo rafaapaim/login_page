@@ -8,6 +8,8 @@
  <a href="#autor">Autor</a>
 </p>
 
+![Capturar](https://user-images.githubusercontent.com/91858793/211161191-65d42457-6d40-4db8-8d24-9af8751cc4ef.PNG)
+
 ### Objetivo
 ---
 Este projeto tem o intuito de estudar sobre HTML e CSS
